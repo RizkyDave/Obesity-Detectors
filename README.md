@@ -6,7 +6,7 @@ This Project Created By `DappyNet Development`
 
 # 🏙 | overview
 
-Try aja dulu
+<img src="https://imgur.com/a/kIUu6ry">
 
 # 🔗 | installation
 
