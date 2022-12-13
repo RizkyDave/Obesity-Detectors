@@ -6,8 +6,6 @@ This Project Created By `DappyNet Development`
 
 # 🏙 | overview
 
-<img src="https://cdn.discordapp.com/attachments/964494147190939688/1052142410282577920/image.png"  width="500" />
-
 *The Tools*
 
 <img src="https://cdn.discordapp.com/attachments/964494147190939688/1052143038945841182/image.png"  width="500" />
