@@ -6,7 +6,7 @@ This Project Created By `DappyNet Development`
 
 # 🏙 | overview
 
-<img src="https://i.imgur.com/kIUu6ry.png">
+<img src="https://i.imgur.com/kIUu6ry.png"  width="500" />
 
 # 🔗 | installation
 
